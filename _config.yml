@@ -24,6 +24,12 @@ exclude:
         - vendor/gems/
         - vendor/ruby/
 
+defaults:
+  - scope:
+      type: members
+    values:
+      layout: member
+
 collections:
         affiliates:
                 output: true
