@@ -29,6 +29,7 @@ collections:
                 output: true
         members:
                 output: true
+                permalink: /member/:name/
         publications:
                 output: true
         reviews:
